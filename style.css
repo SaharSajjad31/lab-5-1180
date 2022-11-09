@@ -1,0 +1,25 @@
+.album{
+    text-align: center;
+}
+
+.short{
+    text-align: center ;
+    margin-left: 381px;
+}
+
+#margintop{
+    margin-top: 12px;
+}
+
+#left{
+    margin-left: 73%;
+}
+
+.top{
+    margin-top: 25px;
+}
+
+/* #button a{
+    color: black;
+    border: 1px solid black
+} */
